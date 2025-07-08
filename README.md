@@ -18,7 +18,7 @@ Pipenv installed (for managing dependencies).
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/annuraggg/SpyCrop-Desktop-App
+
 Navigate to the project directory:
 
 cd Spycrop-Desktop-App
